@@ -4,7 +4,7 @@
 - 🌱 I’m also learning Touch Typing and Advanced English for ME.
 - 💞️ I’m looking to collaborate with enthustiatic web devs.
 - 📫 How to reach me ajithksmailbox@gmail.com
-- 🌏 visit me on ajithnow.com
+- 🌏 visit me on https://ajithnow.com
 
 <!---
 ajithnow/ajithnow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
