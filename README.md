@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning laravel,php and wordpress for the web.
 - 🌱 I’m also learning Touch Typing and Advanced English for ME.
 - 💞️ I’m looking to collaborate with enthustiatic web devs.
-- 📫 How to reach me ajithksmailbox@gmail.com
+- 📫 How to reach me ajithkumarmailbox@gmail.com
 - 🌏 visit me on https://ajithnow.com
 
 <!---
